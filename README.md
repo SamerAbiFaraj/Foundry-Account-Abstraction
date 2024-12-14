@@ -1,3 +1,10 @@
+
+# About
+    1. Create a basic Account Abstraction(AA) on Eherum
+    2. Deploy, and send a userOp/transaction through them
+    
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
